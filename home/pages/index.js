@@ -13,6 +13,11 @@ export default function Home() {
         <a href="/blog">Blog</a>
       </div>
       <div>
+        <Link href="/blog">
+          <a>Blog with Link</a>
+        </Link>
+      </div>
+      <div>
         <Link href="/about">
           <a>About us</a>
         </Link>
